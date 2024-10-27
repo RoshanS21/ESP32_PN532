@@ -1,0 +1,5 @@
+#ignore all files inside the following directories
+build/
+.devcontainer/
+.vscode/
+managed_components/
